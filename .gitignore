@@ -1,0 +1,45 @@
+# Ignore build directories
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pidb.meta
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore Visual Studio Code workspace files
+.vscode/
+
+# Ignore Mac-specific files
+*.plist
+
+# Ignore Unreal auto-generated files
+*.xcodeproj
+*.xcworkspace
+*.sln
+*.suo
+
+# Ignore other IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
